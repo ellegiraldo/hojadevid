@@ -1,0 +1,16 @@
+body{
+    padding: 3em;
+    background-color: #e6dfd2;
+    font-family: 'Montserrat', sans-serif;
+}
+.final{
+    text-align: center;
+    padding: 1em;
+    font-size: x-small;
+}
+.head{
+    padding: 1em;
+    text-align: center;
+    font-size: x-large;
+    font-weight: bolder;
+}
